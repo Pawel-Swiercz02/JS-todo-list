@@ -1,2 +1,2 @@
-# JS-TODO-list
+# JS-todo-app
 JavaScript TODO Web application
