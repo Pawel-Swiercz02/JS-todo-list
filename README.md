@@ -1,2 +1,2 @@
 # JS-todo-app
-JavaScript TODO Web application
+JavaScript TODO Web application version 1
